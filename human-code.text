@@ -1,0 +1,34 @@
+Situazione: hai sonno, oggi hai stuadiato tanto, e il momento di andare al letto!
+
+-const moodAgosto = venerdi 40 gradi non c'è vento
+- davanti al pc da tutta la mattina, devo cercare di finire gli esercizi che il mio teacher mi ha lasciato!
+- metto in standby il pc
+- compare un allert sullo schermo del pc che dice devi fare l'aggiornamento
+- if (allertPC)se sono molto stanco nn aspetto, arresto forzato ->
+- else --- altrimenti aspetto l'aggiornamento!
+-> confermo al pc di spegnersi!
+- mi alzo dalla sedia e mi diriggo verso la cucina in cerca di qualcosa di fresco!
+-apro il frigo ma nn trovo nulla [];
+-mi alzo verso il frezzer 
+- for x = 0, x < sperando di trovare li qualcosa.lenght, x++
+- ma trovo soltanto una  scatola di piselli, del basilico, e del ghiaccio instantaneo.
+- chiudo il frigo nn trovando nulla 
+- mi diriggo verso il rubbinetto
+- mi accorgo che ce una montagna di piatti da lavare 
+- if se sono molto stanco nn lavo i piatti ->
+- else  altrimenti lo faccio 
+-> il ghiaccio visto poco prima nel frezzer poteva tornare utile per rinfrescare la bottiglia
+- vado verso il frigo apro il frezzer e prendo il ghiaccio 
+- torno indietro e prendo una bottiglia che è vuota
+e la riempio di acqua calda dal rubbinetto
+- e ci metto il ghiaccio intorno e
+ while ---> aspetto 
+- pasati 10 minuti e pronta da bere 
+-la bevo e finalmente un GIOIA
+- mi diriggo verso la camera da letto 
+-mi accorgo che la luce in cucina e accesa 
+- if se sono molto stanco vado a letto lo stesso
+- else torno indietro e la spengo 
+-mi metto a letto
+- mentre fisso il soffitto mi viene la soluzione all'esercizio di ottavio 
+-ma sono troppo stanco è decido di dormire lo stesso!!!!
